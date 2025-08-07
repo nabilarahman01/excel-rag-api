@@ -44,5 +44,5 @@ A smart Retrieval-Augmented Generation (RAG) API built using FastAPI that allows
 @Author
 Nabila Rahman
 nabilarahman359@gmail.com
-— for RAG API Developer @ Excel Technologies
+— for RAG API Developer recruitment @ Excel Technologies
   

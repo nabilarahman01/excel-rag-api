@@ -41,8 +41,7 @@ A smart Retrieval-Augmented Generation (RAG) API built using FastAPI that allows
      pip install -r requirements.txt
 
 
-@Author
-Nabila Rahman
+© Nabila Rahman
 nabilarahman359@gmail.com
 — for Software Developer (Python) recruitment @ Excel Technologies
   
